@@ -1,0 +1,39 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.first{
+    display:inline-block;
+    min-width: 200px;
+}
+.transc{
+    display: inline-block;
+    min-width: 100px;
+    padding-right: 20px;
+}
+.m {
+    color: red;
+}
+.line:nth-child(2n+1){
+    background: rgb(240,240,240);
+}
+.firstRow {
+    display:flex;
+}
+.firstRow > input{
+    flex-grow: 1;
+}
+.generic {
+    opacity: 0.8;
+}

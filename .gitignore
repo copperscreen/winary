@@ -1,0 +1,10 @@
+web/ClientApp/node_modules
+web/ClientApp/bin
+web/ClientApp/obj
+.vs
+parse/.vs
+parse/.vscode
+parse/bin
+parse/obj
+parse/*.txt
+parse/*.bz2

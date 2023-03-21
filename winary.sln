@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "winary", "parse\winary.csproj", "{E61607C4-BB9E-4968-B551-272A7214AD36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parse", "parse\parse.csproj", "{E61607C4-BB9E-4968-B551-272A7214AD36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web\web.csproj", "{819F08AA-1913-4C62-AC97-5D856EC65821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "web", "web\web.csproj", "{819F08AA-1913-4C62-AC97-5D856EC65821}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
